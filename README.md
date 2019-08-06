@@ -1,10 +1,10 @@
 # Simple-ButterKnife
 一个轻量级的‘黄油刀’注入框架
-#添加依赖
+# 添加依赖
 ```
 implementation 'com.github.belong571:Simple-ButterKnife:v1.0.0'
 ```
-#简单使用
+# 简单使用
 ```
 @ContentView(R.layout.activity_main)
 public class MainActivity extends AppCompatActivity {
@@ -41,3 +41,4 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+# 简书地址：https://www.jianshu.com/p/e9784f142209
