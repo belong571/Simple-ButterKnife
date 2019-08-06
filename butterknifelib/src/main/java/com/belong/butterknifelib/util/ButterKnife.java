@@ -1,12 +1,12 @@
-package com.example.butterknifelib.util;
+package com.belong.butterknifelib.util;
 
 import android.app.Activity;
 import android.view.View;
 
-import com.example.butterknifelib.annotation.BindView;
-import com.example.butterknifelib.annotation.ContentView;
-import com.example.butterknifelib.annotation.OnClick;
-import com.example.butterknifelib.annotation.OnLongClick;
+import com.belong.butterknifelib.annotation.BindView;
+import com.belong.butterknifelib.annotation.ContentView;
+import com.belong.butterknifelib.annotation.OnClick;
+import com.belong.butterknifelib.annotation.OnLongClick;
 
 import java.lang.reflect.Field;
 import java.lang.reflect.Method;
